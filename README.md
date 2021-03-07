@@ -1,8 +1,8 @@
-## Hi, I'm Bahay 👋🏼
+# Hi, I'm Bahay 👋🏼
 
 I'm a full-stack developer experienced in Ruby on Rails and JavaScript based programming with a background in academia. I am passionate about using my technical skills along with my research and teaching background in both independent and collaborative settings to build products that help improve people’s lives. 
 
-### 🛠 Technologies & Tools
+### Technologies & Tools:
 ![](https://img.shields.io/badge/JavaScript-skill?style=for-the-badge&logo=javascript&logoColor=yellow&color=gray)
 ![](https://img.shields.io/badge/Ruby-skill?style=for-the-badge&logo=ruby&logoColor=red&color=gray)
 ![](https://img.shields.io/badge/React-skill?style=for-the-badge&logo=react&logoColor=blue&color=gray)
@@ -16,8 +16,8 @@ I'm a full-stack developer experienced in Ruby on Rails and JavaScript based pro
 
 ### How to reach me:
 📫 [LinkedIn](https://www.linkedin.com/in/bahay-gulle-bilgi/), I'd love to connect </br> 
-👩🏼‍💻  [Portfolio](https://www.bahaygb.com/), check out my personal projects</br>
-✍🏻  [Medium](https://medium.com/@bahayg), read my blog posts</br>
+👩🏼‍💻 [Portfolio](https://www.bahaygb.com/), check out my personal projects</br>
+✍🏻 [Medium](https://medium.com/@bahayg), read my blog posts</br>
 
 
 
