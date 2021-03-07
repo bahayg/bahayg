@@ -9,7 +9,7 @@ I'm a full-stack developer experienced in Ruby on Rails and JavaScript based pro
 ![](https://img.shields.io/badge/Rails-skill?style=for-the-badge&logo=ruby-on-rails&logoColor=red&color=gray)
 ![](https://img.shields.io/badge/HTML-skill?style=for-the-badge&logo=html5&logoColor=orange&color=gray)
 ![](https://img.shields.io/badge/CSS-skill?style=for-the-badge&logo=css3&logoColor=blue&color=gray)
-![](https://img.shields.io/badge/PostgeSQL-skill?style=for-the-badge&logo=postgresql&logoColor=blue&color=gray)
+![](https://img.shields.io/badge/PostgreSQL-skill?style=for-the-badge&logo=postgresql&logoColor=blue&color=gray)
 ![](https://img.shields.io/badge/Git-skill?style=for-the-badge&logo=git&logoColor=red&color=gray)
 ![](https://img.shields.io/badge/Bootstrap-skill?style=for-the-badge&logo=bootstrap&logoColor=563d7c&color=gray)
 
