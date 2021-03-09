@@ -15,9 +15,9 @@ I'm a full-stack developer experienced in Ruby on Rails and JavaScript based pro
 
 
 ### How to reach me:
-📫 [LinkedIn](https://www.linkedin.com/in/bahay-gulle-bilgi/), I'd love to connect </br> 
-👩🏼‍💻 [Portfolio](https://www.bahaygb.com/), check out my personal projects</br>
-✍🏻 [Medium](https://medium.com/@bahayg), read my blog posts</br>
+📫 [LinkedIn](https://www.linkedin.com/in/bahay-gulle-bilgi/), connect with me </br> 
+👩🏼‍💻 [Portfolio](https://www.bahaygb.com/), visit my personal site </br>
+✍🏻 [Medium](https://medium.com/@bahayg), read my blog posts </br>
 
 
 
